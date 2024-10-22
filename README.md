@@ -1,1 +1,1 @@
-# CL-I-experiments
+# comp-lab-1-experiments
